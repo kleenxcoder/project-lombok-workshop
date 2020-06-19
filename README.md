@@ -7,11 +7,14 @@ The accompanying code for this workshop is [on Github](https://github.com/kleenx
 
 - In this workshop you'll need the latest Java version. Java 8 is the baseline for this workshop.
 - You'll need a newer, 3.1, version of Apache Maven installed.
-- Use ure desired IDE Apache NetBeans, Eclipse, IntelliJ IDEA or VI
+- Use ure desired IDE Apache NetBeans, Eclipse, IntelliJ IDEA, Visual Studio Code or vi
 
 
 ## Content
+> In the first run I have covered the most common used annotation.
 
+- @Val
+- @Var
 - @Log
 - @Getter 'n' @Setter
 - @ToString
@@ -21,6 +24,7 @@ The accompanying code for this workshop is [on Github](https://github.com/kleenx
 
 
 ### Questions:
+- to come
 
 
 ## Contact

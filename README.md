@@ -11,6 +11,7 @@ The accompanying code for this workshop is [on Github](https://github.com/kleenx
 
 
 ## Content
+> In the first run I have covered the most common used annotation.
 
 - @Log
 - @Getter 'n' @Setter
@@ -21,6 +22,7 @@ The accompanying code for this workshop is [on Github](https://github.com/kleenx
 
 
 ### Questions:
+- to come
 
 
 ## Contact

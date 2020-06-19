@@ -11,6 +11,9 @@ The accompanying code for this workshop is [on Github](https://github.com/kleenx
 
 ## Contact
 twitter: https://twitter.com/kleenxcoder
+
 udemy: https://www.udemy.com/user/peter-stritzinger/
+
 www: http://www.kleenxcoder.com/
+
 youtube: https://www.youtube.com/channel/UCd3SWZz1vebfUffRhi43BEg

@@ -13,6 +13,8 @@ The accompanying code for this workshop is [on Github](https://github.com/kleenx
 ## Content
 > In the first run I have covered the most common used annotation.
 
+- @Val
+- @Var
 - @Log
 - @Getter 'n' @Setter
 - @ToString

@@ -22,3 +22,7 @@ public class VarLombok {
 		}
 	}
 }
+
+//my opinion: introducing new keyword to java makes less sense if there is already an existing keyword
+//feels like: let's add val and var so javascript developers will feel better when using java
+//other than that when comparing number of lines of code nothing changed.

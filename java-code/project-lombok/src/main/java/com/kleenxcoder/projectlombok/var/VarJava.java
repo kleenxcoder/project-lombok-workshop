@@ -7,7 +7,7 @@ import java.util.Map;
 public class VarJava {
 
 	public String example() {
-		ArrayList<String> example = new ArrayList<String>();
+		ArrayList<String> example = new ArrayList<String>(); // remove boilerplate -> ArrayList<String> example = new ArrayList<>();
 		example.add("Hello, World!");
 		String foo = example.get(0);
 		return foo.toLowerCase();

@@ -7,7 +7,7 @@ import java.util.Map;
 public class ValJava {
 
 	public String example() {
-		final ArrayList<String> example = new ArrayList<String>();
+		final ArrayList<String> example = new ArrayList<String>(); // remove boilerplate -> final ArrayList<String> example = new ArrayList<>(); 
 		example.add("Hello, World!");
 		final String foo = example.get(0);
 		return foo.toLowerCase();

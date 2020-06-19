@@ -1,4 +1,4 @@
-package com.kleenxcoder.projectlombok.dto;
+package com.kleenxcoder.projectlombok.gettersetter;
 
 import java.util.Date;
 

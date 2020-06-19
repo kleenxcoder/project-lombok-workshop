@@ -1,8 +1,7 @@
-package com.kleenxcoder.projectlombok.dto;
+package com.kleenxcoder.projectlombok.equalsandhashcode;
 
 import java.util.Date;
 
-import lombok.AllArgsConstructor;
 import lombok.EqualsAndHashCode;
 import lombok.Getter;
 import lombok.Setter;
@@ -10,8 +9,7 @@ import lombok.ToString;
 
 @EqualsAndHashCode
 @ToString
-@AllArgsConstructor
-public class PersonAllArgsConstructor {
+public class PersonEqualsAndHashCode {
 	
 	@Getter
 	@Setter

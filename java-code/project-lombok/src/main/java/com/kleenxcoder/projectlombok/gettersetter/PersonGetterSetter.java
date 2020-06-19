@@ -1,15 +1,11 @@
-package com.kleenxcoder.projectlombok.dto;
+package com.kleenxcoder.projectlombok.gettersetter;
 
 import java.util.Date;
 
-import lombok.EqualsAndHashCode;
 import lombok.Getter;
 import lombok.Setter;
-import lombok.ToString;
 
-@EqualsAndHashCode
-@ToString
-public class PersonEqualsAndHashCode {
+public class PersonGetterSetter {
 	
 	@Getter
 	@Setter

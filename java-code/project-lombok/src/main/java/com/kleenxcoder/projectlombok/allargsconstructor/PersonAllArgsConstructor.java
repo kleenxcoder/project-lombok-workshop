@@ -1,40 +1,40 @@
-package com.kleenxcoder.projectlombok.dto;
+package com.kleenxcoder.projectlombok.allargsconstructor;
 
 import java.util.Date;
 
+import lombok.AllArgsConstructor;
+import lombok.EqualsAndHashCode;
 import lombok.Getter;
 import lombok.Setter;
 import lombok.ToString;
 
+@EqualsAndHashCode
 @ToString
-public class PersonToString {
-
+@AllArgsConstructor
+public class PersonAllArgsConstructor {
+	
 	@Getter
 	@Setter
-	@ToString.Include(name = "FIRST_NAME")
 	private String firstName;
-
+	
 	@Getter
 	@Setter
 	private String lastName;
-
+	
 	@Getter
 	@Setter
-	@ToString.Include(rank = -1)
 	private String birthName;
-
+	
 	@Getter
 	@Setter
 	private String nickName;
-
+	
 	@Getter
 	@Setter
-	@ToString.Include
 	private String phoneNumber;
-
+	
 	@Getter
 	@Setter
-	@ToString.Exclude
 	private Date birthDate;
 
 }

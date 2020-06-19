@@ -1,7 +1,9 @@
-package com.kleenxcoder.projectlombok.dto;
+package com.kleenxcoder.projectlombok.gettersetter;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
+
+import com.kleenxcoder.projectlombok.gettersetter.PersonGetterSetter;
 
 import lombok.extern.slf4j.Slf4j;
 

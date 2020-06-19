@@ -1,4 +1,4 @@
-package com.kleenxcoder.projectlombok.dto;
+package com.kleenxcoder.projectlombok.data;
 
 import java.util.Date;
 

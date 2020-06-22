@@ -15,6 +15,7 @@ The accompanying code for this workshop is [on Github](https://github.com/kleenx
 
 - @Val
 - @Var
+- @NonNull
 - @Log
 - @Getter 'n' @Setter
 - @ToString

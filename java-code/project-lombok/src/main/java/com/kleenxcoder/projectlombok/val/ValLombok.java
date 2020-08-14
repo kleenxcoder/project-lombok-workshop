@@ -24,5 +24,5 @@ public class ValLombok {
 }
 
 // my opinion: introducing new keyword to java makes less sense if there is already an existing keyword
-// feels like: let's add val and var so javascript developers will feel better when using java
+// var has been introduced in Java 10 this makes lombok's keyword obsolete. this could also happen with val
 // other than that when comparing number of lines of code nothing changed.

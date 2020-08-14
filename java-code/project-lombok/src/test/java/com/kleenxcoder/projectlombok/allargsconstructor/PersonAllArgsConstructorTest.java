@@ -3,8 +3,6 @@ package com.kleenxcoder.projectlombok.allargsconstructor;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
-import com.kleenxcoder.projectlombok.allargsconstructor.PersonAllArgsConstructor;
-
 import lombok.extern.slf4j.Slf4j;
 
 @SpringBootTest

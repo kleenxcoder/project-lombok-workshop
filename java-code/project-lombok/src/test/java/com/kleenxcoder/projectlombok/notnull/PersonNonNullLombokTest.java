@@ -17,7 +17,6 @@ public class PersonNonNullLombokTest {
 			PersonNonNullLombok person = new PersonNonNullLombok(null);
 			log.debug(person.toString());
 		});
-
 	}
 	
 	@Test

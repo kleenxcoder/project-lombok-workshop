@@ -14,22 +14,22 @@ The accompanying code for this workshop is [on Github](https://github.com/kleenx
 ## Content
 > In the first run I have covered the most common used annotation.
 
-- [x] @Val
-- [x] @Var
-- [x] @NonNull
-- [] @Cleanup
-- [x] @Getter 'n' @Setter
-- [x] @ToString
-- [x] @EqualsAndHashCode
-- [x] @NoArgsConstructor, @RequiredArgsConstructor and @AllArgsConstructor
-- [x] @Data
-- [] @Value
-- [] @Builder
-- [] @SneakyThrows
-- [] @Synchronzized
-- [] @With
-- [] @Getter(lazy=true)
-- [x] @Log
+[x] @Val
+[x] @Var
+[x] @NonNull
+[] @Cleanup
+[x] @Getter 'n' @Setter
+[x] @ToString
+[x] @EqualsAndHashCode
+[x] @NoArgsConstructor, @RequiredArgsConstructor and @AllArgsConstructor
+[x] @Data
+[] @Value
+[] @Builder
+[] @SneakyThrows
+[] @Synchronzized
+[] @With
+[] @Getter(lazy=true)
+[x] @Log
 
 
 ### Questions:

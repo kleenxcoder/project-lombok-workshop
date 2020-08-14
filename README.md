@@ -8,6 +8,7 @@ The accompanying code for this workshop is [on Github](https://github.com/kleenx
 - In this workshop you'll need the latest Java version. Java 8 is the baseline for this workshop.
 - You'll need a newer, 3.1, version of Apache Maven installed.
 - Use ure desired IDE Apache NetBeans, Eclipse, IntelliJ IDEA, Visual Studio Code or vi
+- Patch your IDE with lombok https://projectlombok.org/setup/overview
 
 
 ## Content
@@ -15,6 +16,7 @@ The accompanying code for this workshop is [on Github](https://github.com/kleenx
 
 - @Val
 - @Var
+- @NonNull
 - @Log
 - @Getter 'n' @Setter
 - @ToString
